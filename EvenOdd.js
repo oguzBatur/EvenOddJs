@@ -15,4 +15,4 @@ function oddishOrEvenish(number) {
 console.log(oddishOrEvenish(43));
 console.log(oddishOrEvenish(373));
 console.log(oddishOrEvenish(4433));
-console.log(oddishOrEvenish("Oha"));
+console.log(oddishOrEvenish("Test"));
